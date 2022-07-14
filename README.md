@@ -1,4 +1,4 @@
-# nginx-demo
+# genome-browser
 
 ## Project setup
 ```
